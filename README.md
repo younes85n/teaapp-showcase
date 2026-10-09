@@ -27,6 +27,8 @@
 
 ![نمای کلی سامانه](overview.png)
 
+![پنل حضور و غیاب](attendance-dashboard.png)
+
 ![پنل مدیریت داخلی](internal-management.png)
 
 ![پنل ناظر کل](global-supervisor.png)
