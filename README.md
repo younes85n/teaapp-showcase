@@ -161,29 +161,15 @@
 
 ## تصاویر پروژه
 
-### نمای کلی سامانه
+##![نمای کلی سامانه](overview.png)
 
-![نمای کلی سامانه](TeaApp%20Persian%20tea%20house%20management%20platform.png)
+![پنل حضور و غیاب](attendance-dashboard.png)
 
-### پنل مدیریت حضور و غیاب
+![پنل مدیریت داخلی](internal-management.png)
 
-![پنل مدیریت حضور و غیاب](attendance-dashboard.png)
+![پنل ناظر کل](global-supervisor.png)
 
-### پنل مدیریت داخلی
-
-![پنل مدیریت داخلی](Persian%20Internal%20Management%20App%20Showcase.png)
-
-### پنل ناظر کل
-
-![پنل ناظر کل](Persian%20Tea%20House%20Monitoring%20Dashboard.png)
-
-### مدیریت سشن‌ها
-
-![مدیریت سشن‌ها](TeaApp%20smart%20session%20management.png)
-
-### مدیریت چایخانه و پست‌ها
-
-![مدیریت چایخانه و پست‌ها](Persian%20Tea%20House%20Management%20Portfolio.png)
+![مدیریت سشن‌ها](session-management.png)
 
 ## توسعه‌دهنده
 
